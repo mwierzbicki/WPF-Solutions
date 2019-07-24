@@ -1,4 +1,4 @@
-My solutions for tasks from the WPF course - Introduction to Programming - Functional approach. 
+My solutions for tasks from the WPF course - Introduction to Programming - Functional approach written in OCaml. 
 
 arytmetyka - program implementing interval arithmetic with basic operations
 
